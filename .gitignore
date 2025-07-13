@@ -27,8 +27,7 @@ vectordb/
 .DS_Store
 Thumbs.db
 
-# PDF and docs
-*.pdf
+
 
 # Streamlit
 .streamlit/
