@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env*
+
+# Jupyter
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Data
+*.csv
+*.tsv
+*.json
+*.db
+*.sqlite
+*.parquet
+*.h5
+*.lance
+vectordb/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF and docs
+*.pdf
+
+# Streamlit
+.streamlit/
+
+# Misc
+*.log
+*.bak
+*.tmp
+
+# Ignore architecture PDF if not needed in repo
+#Architectures.pdf

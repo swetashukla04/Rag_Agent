@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+lancedb
+sentence-transformers
+pandas
+numpy
+groq
+requests
+python-dotenv
+google-generativeai
+streamlit
+=======
+lancedb
+sentence-transformers
+pandas
+numpy
+groq
+requests
+python-dotenv
+google-generativeai
+streamlit
+>>>>>>> d4f67a4f568fcb30cdec9b3d88002221f673e55e
